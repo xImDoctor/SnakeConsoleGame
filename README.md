@@ -9,7 +9,7 @@ This project is made as a study one and from the same series as the previous one
 <br><br>
 
 ## Something about the code and project
-This project uses ```.wav``` audio files. You can read how to use it <a href="snakeByMethods/sound"> right here</a>. The project made using functional programming and there are comments on the entire code.<br>
+This project uses ```.wav``` audio files. You can read how to use it <a href="snakeByMethods/sound"> right here</a>. The project made using functional programming and there are comments on the entire code. But also this project was created before I started using git, so it contains some commented out pieces of code.<br>
 There are also unused sounds in that folder, this is due to the peculiarities of ```PlaySound()```, in order to use sounds in parallel I guess you need to use a threading.
 
 ## A brief overview of the game
